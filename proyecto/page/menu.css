@@ -1,0 +1,35 @@
+.contenedor_principal{
+
+}
+.navbar{
+    position: absolute;
+    align-items: flex-start;
+    justify-content: space-between;
+    display: flex;
+}
+
+.cajaizq{
+display: inline-block;
+list-style: none;
+margin: 0px;
+padding: 0px;
+}
+.cajaizq li{
+    display: inline-block;
+    margin-right: 20px;
+    text-align: justify;
+}
+
+.logo-centro{
+    
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+
+.cajadere{
+    
+    display: inline-block;
+    margin-left: 20px;
+
+}
